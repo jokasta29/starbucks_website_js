@@ -1,6 +1,6 @@
 # Starbucks Webpage Project
 
-![Website Screenshot](websiteIMG.png)
+![Website Screenshot](images/websiteIMG.png)
 
 This project is a simple webpage for a fictional Starbucks-like brand, designed specifically for computer screens. Below, we highlight the key functionalities implemented using JavaScript.
 
